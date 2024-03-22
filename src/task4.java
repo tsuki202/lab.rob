@@ -1,9 +1,7 @@
 public class task4 {
     public static void main(String[] args) {
-        System.out.println("Завдання 2:");
-        String choise="N";    //Вибір операції  «Я погоджуюсь!» введіть: Так, ОК, Yes, Y, +, Ok
-        //Вибір операції «Я відмовляюсь!» введіть: Ні, NO, N, -, No
 
+        String choise = "N";
         switch (choise){
             case "Так":
             case "OK":
